@@ -176,9 +176,7 @@ const PeoplePage = () => {
           <option value="black">Black</option>
           <option value="pink">Pink</option>
           <option value="gold">Gold</option>
-          <option value="white">White</option>
           <option value="blue-gray">Blue-Gray</option>
-          <option value="red, blue">Red-Blue</option>
           <option value="green, yellow">Green-Yellow</option>
           <option value="unknown">Unknown</option>
         </select>
