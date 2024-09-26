@@ -6,7 +6,7 @@ function HomePage() {
     <>
    
       <div className="home-page">
-        <h1>Welcome to the SWAPI Catalog</h1>
+        <h1>Welcome to the SWAPi Catalog</h1>
         <p>Explore the vast universe of Star Wars data, including people, planets, and starships!</p>
         <div className="home-links">
           <a href="/people" className="home-link">People</a>
